@@ -1,0 +1,19 @@
+git total steps
+
+git init 
+git status
+git config --global user.name "sasidhr"
+git config --global user.email "sasidharr69@gmail.com
+git status
+vi file name
+git status 
+:wq! 
+git staus
+git add file name
+git status
+git commit -m " message "
+git status
+git log
+git status
+git push
+
